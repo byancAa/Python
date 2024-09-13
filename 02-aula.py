@@ -1,4 +1,4 @@
 # Comentário de uuma linha 
 
-print("Nicolas 'nini' Cauã") # Cometário no código 
-print ('Nicolads"nini" cauã')
+print("Byanca 'by' Carla") # Cometário no código 
+print ('Byanca"by" Carla')
