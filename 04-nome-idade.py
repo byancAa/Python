@@ -1,7 +1,7 @@
  #Atribuição de variaveus 
-nome = "nicolas"
-idade = 16
-altura = 1.68
+nome = "Byanca"
+idade = 15
+altura = 1.57
 
 # exibir mensagem na tela 
 print ("nome:", nome, "idade:", idade, "altura:", altura)
